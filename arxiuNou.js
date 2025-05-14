@@ -1,0 +1,1 @@
+// Comentari afegit per Jlopez
